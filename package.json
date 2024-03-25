@@ -1,0 +1,23 @@
+{
+  "name": "mock-apollo-server-for-issue",
+  "version": "1.0.0",
+  "description": "I'm just making this as a reproduction for a bug I'll submit to apollo-server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfanegg/mock-apollo-server-for-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfanegg/mock-apollo-server-for-issue/issues"
+  },
+  "homepage": "https://github.com/mfanegg/mock-apollo-server-for-issue#readme",
+  "dependencies": {
+    "@apollo/server": "^4.10.2",
+    "graphql": "^16.8.1"
+  }
+}
